@@ -1,0 +1,8 @@
+'animais':['leao', 'elefante', 'girafa', 'tigre', 'pantera']
+'frutas': ['maça', 'banana', 'laranja', 'morango', 'kiwi']
+'cidades': ['lisboa', 'madrid', 'paris', 'rome', 'tokyo']
+'objetos': ['computador', 'livro', 'cadeira', 'mochila', 'relogio']
+'cores': ['vermelho', 'azul', 'verde', 'amarelo', 'rosa']
+'esportes': ['futebol', 'basquete', 'nataçao', 'tenis', 'ciclismo']
+'comidas': ['pizza', 'sushi', 'hamburguer', 'lasanha', 'chocolate']
+'profissoes': ['medico', 'engenheiro', 'professor', 'advogado', 'artista']
